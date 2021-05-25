@@ -3986,9 +3986,6 @@ d},Unpin(){this._SetPinInst(null);this._mode="";this._propSet.clear();this._pinI
 		C3.Plugins.Audio.Acts.Play,
 		C3.Plugins.Audio.Acts.Stop,
 		C3.Plugins.Audio.Cnds.IsTagPlaying,
-		C3.Plugins.VKBridge.Acts.ShowAds,
-		C3.Plugins.VKBridge.Cnds.AdsMobileSuccess,
-		C3.Plugins.VKBridge.Cnds.ShowAdsSuccess,
 		C3.Plugins.VKBridge.Cnds.BridgeConnectSuccess,
 		C3.Plugins.VKBridge.Acts.Authorization,
 		C3.Plugins.VKBridge.Acts.AppGetClient
@@ -4062,7 +4059,6 @@ d},Unpin(){this._SetPinInst(null);this._mode="";this._propSet.clear();this._pinI
 		{TextGoal: 0},
 		{TextSum: 0},
 		{TextLVL2: 0},
-		{Sprite: 0},
 		{VKBridge: 0},
 		{Share: 0},
 		{Friends: 0},
